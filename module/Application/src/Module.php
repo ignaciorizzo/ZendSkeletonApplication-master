@@ -9,7 +9,7 @@ namespace Application;
 
 class Module
 {
-    const VERSION = '3.0.0dev 4.0';
+    const VERSION = '3.0.0dev 4.0 4.0';
 
     public function getConfig()
     {
